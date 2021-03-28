@@ -21,32 +21,17 @@ npm install
 npm start
 ```
 
-Open [http://localhost:3000](http://localhost:3000)<br>
-
+FrontEnd - Open [http://localhost:3000](http://localhost:3000)<br>
+BackEnd - Open [http://localhost:3001](http://localhost:3001)<br>
 ## Libraries used
 * ReactJs
+* JSON Server
 * create-react-app
-
-
-
-## Non create-react-app version
-It's located in the branch **non-create-react-app**.
-It uses hand crafted `Webpack 2`
-
-```sh
-git clone https://github.com/ariesmcrae/reactjs-crud-boilerplate.git
-
-cd reactjs-crud-boilerplate
-
-git checkout -b non-create-react-app origin/non-create-react-app
-
-yarn install
-
-yarn start
-```
-
 
 ## Credits
 This project took inspirations from :
 * [web-moderno](https://github.com/coryhouse/pluralsight-redux-starter) by [@cod3rcursos](https://github.com/cod3rcursos/web-moderno)
+* [json-server](https://github.com/coryhouse/pluralsight-redux-starter) by [@typicode](https://github.com/typicode/json-server)
+
+
 

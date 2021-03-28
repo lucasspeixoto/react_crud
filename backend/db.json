@@ -1,0 +1,11 @@
+{
+    "users": [{
+        "id":1,
+        "name": "Lucas Peixoto",
+        "email": "lspeixoto@stefanini.com"
+    }, {
+        "id":2,
+        "name": "Liana Fernandes",
+        "email": "lianacgf@hotmail.com"
+    }]
+}
