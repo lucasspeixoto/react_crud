@@ -1,4 +1,4 @@
-# ReactJs CRU 
+# ReactJs CRUD
 
 ## Demo (Live Interactive)
 
@@ -28,6 +28,7 @@ npm start
 
 FrontEnd - Open [http://localhost:3000](http://localhost:3000)<br>
 BackEnd - Open [http://localhost:3001](http://localhost:3001)<br>
+
 ## Libraries used
 * ReactJs
 * JSON Server
