@@ -8,7 +8,9 @@ import Header from './Header'
 export default props =>
     <Fragment>
         <Header {...props} /> {/* Header passa a receber as propriedades de main (icon, title e subtitle) */}
-        <main className="content">
-            Conteudo
+        <main className="content container-fluid">
+            <div className="p-3 mt-3">
+                {props.children}
+            </div>
         </main>
     </Fragment>
