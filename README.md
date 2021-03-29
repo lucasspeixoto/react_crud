@@ -26,13 +26,14 @@ npm install
 npm start
 ```
 
-FrontEnd - Open [http://localhost:3000](http://localhost:3000)<br>
-BackEnd - Open [http://localhost:3001](http://localhost:3001)<br>
+frontend - Open [http://localhost:3000](http://localhost:3000)<br>
+backend - Open [http://localhost:3001](http://localhost:3001)<br>
 
 ## Libraries used
 * ReactJs
 * JSON Server
 * create-react-app
+* Bootstrap
 
 ## Credits
 This project took inspirations from :
