@@ -3,18 +3,12 @@
 ## Layout
 ![interface](frontend/src/assets/images/layout.png "CRUD")
 
-
-## Preview
-<img src=''>
-
 ## Prerequisite
 * Nodejs v14+
 * Reactjs
 * Axios
 * Bootstrap
 * Font Awesome
-* React Router
-* React Router DOM
 
 ## Getting Started
 ```sh
