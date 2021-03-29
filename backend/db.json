@@ -1,14 +1,9 @@
 {
   "users": [
     {
-      "name": "Liana Fernandes",
-      "email": "lianacgf@hotmail.com",
-      "id": 2
-    },
-    {
-      "name": "Lucas Sacramoni Peixoto",
-      "email": "lspeixoto@stefanini.com",
-      "id": 3
+      "name": "Arnold Schwarzenegger",
+      "email": "arnold_bodybuilder@gmail.com",
+      "id": 1
     }
   ]
 }
