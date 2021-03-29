@@ -1,11 +1,14 @@
 {
-    "users": [{
-        "id":1,
-        "name": "Lucas Peixoto",
-        "email": "lucas.sacramoni@yahoo.com"
-    }, {
-        "id":2,
-        "name": "Lucas Fernandes",
-        "email": "lucas.sacramoni@hotmail.com"
-    }]
+  "users": [
+    {
+      "name": "Lucas Peixoto",
+      "email": "lucas.sacramoni@yahoo.com",
+      "id": 1
+    },
+    {
+      "name": "Liana Fernandes",
+      "email": "lianacgf@hotmail.com",
+      "id": 2
+    }
+  ]
 }

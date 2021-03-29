@@ -1,16 +1,16 @@
 import './Nav.css'
 import React from 'react'
-
+import { Link } from 'react-router-dom'
 //eslint-disable-next-line
 export default props =>
     <header className="menu-area">
         <nav className="menu">
             {/* REFATORAR igual em Header.jsx - Criar novo componente, importar nesse arquivo e passar os parâmetros */}
-            <a href="#/">
+            <Link to="/">
                 <i className="fa fa-home"></i> Início
-            </a>
-            <a href="#/users">
+            </Link>
+            <Link to="/users">
                 <i className="fa fa-users"></i> Usuários
-            </a>
+            </Link>
         </nav>
     </header>
