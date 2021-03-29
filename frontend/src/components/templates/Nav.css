@@ -14,3 +14,23 @@
 .menu a:hover {
     background: linear-gradient(#295d63 0%, #66edff 100%);
 }
+
+@media(max-width: 768px){
+    .menu {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        }
+
+    .menu a {
+        display: flex;
+        padding: 10px;
+        margin: 0px;
+    }
+
+    .menu {
+        height: 100%;
+        justify-content: space-around;
+    }
+
+}
